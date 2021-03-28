@@ -18,3 +18,6 @@ If you use this test-set for assessing the chatbot bias, please cite our paper:
 * **Gender Bias Test Prompts**: Ambivalent Sexism Inventory (ASI) [[Glick and Fiske, 1996](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.9865&rep=rep1&type=pdf)] that was invented to capture two forms of gender bias in humans. 1) Hostile Sexism (HS), which refers to sexist antipathy. 2) Benevolent Sexism (BS), which refers to a subjectively positive orientation towards women.
 
 * **Racism Test Prompts**: Old-fashioned and Modern Racism (OMR) [[McConahay, 1986](https://psycnet.apa.org/record/1986-98698-004)] that measures two forms of racism (expression of racism has changed over time being more subtle in modern society than in the past).
+
+
+![alt text](https://github.com/HLTCHKUST/chatbot-social-bias-test/blob/main/example.png)
