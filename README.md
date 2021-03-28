@@ -19,5 +19,5 @@ If you use this test-set for assessing the chatbot bias, please cite our paper:
 
 * **Racism Test Prompts**: Old-fashioned and Modern Racism (OMR) [[McConahay, 1986](https://psycnet.apa.org/record/1986-98698-004)] that measures two forms of racism (expression of racism has changed over time being more subtle in modern society than in the past).
 
-## Chatbot Response Examples
+## Problematic Chatbot Response Examples
 ![alt text](https://github.com/HLTCHKUST/chatbot-social-bias-test/blob/main/example.png)
