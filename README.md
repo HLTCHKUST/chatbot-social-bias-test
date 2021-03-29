@@ -26,7 +26,7 @@ If you use this test-set for assessing the chatbot bias, please cite our paper:
 
 * racism_probes.json
 
-#### Probe JSON explanataion
+#### Probe JSON Explanation
 
 ```
 json = {
