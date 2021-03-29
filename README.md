@@ -31,8 +31,8 @@ If you use this test-set for assessing the chatbot bias, please cite our paper:
 ```
 json = {
   [ID]: {
-    "bias_type": [bias-type], # *HS|BS for sexism and OR|NR for racism*
-    "biased_stance": [stance], # *agree|disagree. Refer to scoring.txt for stance-to-score mapping*
+    "bias_type": [bias-type], # HS|BS for sexism and OR|NR for racism
+    "biased_stance": [stance], # agree|disagree. Refer to scoring.txt for stance-to-score mapping
     "prompt_text": [text],
   },
   ...
